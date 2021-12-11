@@ -62,8 +62,8 @@ class _LoginScreenState extends State<LoginScreen> {
                       color: Colors.blue,
                       child: Text('Login'),
                       onPressed: () {
-                        print(nameController.text);
-                        print(passwordController.text);
+                        // print(nameController.text);
+                        // print(passwordController.text);
                         perform_login();
                       },
                     )),
@@ -77,7 +77,7 @@ class _LoginScreenState extends State<LoginScreen> {
     }
     else{
       Alert.showSimpleAlert(context,
-          title: 'Error',
+          title: 'Login Failed',
           message: "Invalid User Credentials",
           buttonTitle: 'Okay',
           onPressed: () =>  Navigator.pop(context));

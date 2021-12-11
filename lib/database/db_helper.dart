@@ -2,7 +2,7 @@ import 'package:sqflite/sqflite.dart';
 import 'dart:io' as io;
 import 'package:path/path.dart';
 import 'package:path_provider/path_provider.dart';
-import 'package:xgensys_machine_test/home/student_model.dart';
+import 'package:xgensys_machine_test/home/model/student_model.dart';
 
 class DBHelper {
   static Database _db;
