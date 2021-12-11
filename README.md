@@ -2,9 +2,6 @@
 This is a machine test given by xgensys company
 
 
-# CCAVENUE PAYMENT GATEWAY INTEGRATION EXAMPLE
-
-
 ## Some screenshots are given below
 
 
