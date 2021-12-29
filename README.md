@@ -1,5 +1,5 @@
 # CRES
-This is a machine test given by xgensys company
+A SIMPLE FLUTTER CRUD DATABASE DEMO APP
 
 
 ## Some screenshots are given below
